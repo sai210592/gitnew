@@ -1,1 +1,2 @@
 this is the new file which we have created to learn the git
+thisis to clone the git repo
